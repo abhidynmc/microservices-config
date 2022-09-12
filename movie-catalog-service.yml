@@ -1,3 +1,4 @@
 db:
   name: movie-catalog-server
   port: 9092
+  type: test
